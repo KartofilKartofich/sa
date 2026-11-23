@@ -1,2 +1,3 @@
 streamlit>=1.35.0
 streamlit-authenticator>=0.4.1
+streamlit-local-storage
